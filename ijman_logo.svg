@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="ijman_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.92773438"
+     inkscape:cx="220.96842"
+     inkscape:cy="221.50737"
+     inkscape:window-width="1366"
+     inkscape:window-height="700"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-smooth-nodes="true" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bend_path"
+       id="path-effect6269"
+       is_visible="true"
+       lpeversion="1"
+       bendpath="M 0,-256 H 512"
+       prop_scale="1"
+       scale_y_rel="false"
+       vertical="false"
+       hide_knot="false" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask6408">
+      <rect
+         fill="#ae1c28"
+         width="900"
+         height="200"
+         id="rect6410"
+         x="512"
+         y="0"
+         style="stroke-width:100" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask6412">
+      <rect
+         fill="#ae1c28"
+         width="900"
+         height="200"
+         id="rect6414"
+         x="512"
+         y="0"
+         style="stroke-width:100" />
+    </mask>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#000000;stroke-width:1.37006"
+       id="circle1611"
+       cx="-624.66107"
+       cy="-781.04688"
+       transform="scale(-1)"
+       r="128" />
+    <rect
+       style="fill:#000000;stroke-width:1.11112"
+       id="rect1613"
+       width="128"
+       height="256"
+       x="-781.04688"
+       y="496.66107"
+       transform="rotate(-90)" />
+    <path
+       id="rect936"
+       style="fill:#1a1a1a;stroke-width:3.093;fill-opacity:1;opacity:1;stroke:none;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 151.61416,64 H 360.38584 C 408.92409,64 448,103.07592 448,151.61416 V 360.38584 C 448,408.92408 408.92409,448 360.38584,448 H 151.61416 C 103.07592,448 64,408.92408 64,360.38584 V 151.61416 C 64,103.07592 103.07592,64 151.61416,64 Z" />
+    <g
+       id="g707"
+       style="opacity:1">
+      <path
+         id="path1033"
+         style="fill:#ae1c28;fill-opacity:1;stroke-width:1.37006"
+         d="m 128,128 v 19.19922 h 64 V 128 Z m 192,0 v 19.19922 h 64 V 128 Z m -192,32 v 96 a 128,128 0 0 0 0.45703,6.40039 h 64.17383 A 64,64 0 0 1 192,256 v -64 -32 z m 192,0 v 32 64 a 64,64 0 0 1 -64,64 64,64 0 0 1 -61.05273,-45.85156 v 1.05078 H 129.51562 A 128,128 0 0 0 256,384 128,128 0 0 0 384,256 v -96 z" />
+      <path
+         id="path3975"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1.37006"
+         d="m 128,160 v 96 a 128,128 0 0 0 0.45704,6.40039 h 64.17382 A 64,64 0 0 1 192,256 v -64 -32 z" />
+      <path
+         id="path4415"
+         style="fill:#21468b;fill-opacity:1;stroke-width:1.37006"
+         d="m 128,128 v 19.19922 h 64 V 128 Z" />
+    </g>
+  </g>
+</svg>
